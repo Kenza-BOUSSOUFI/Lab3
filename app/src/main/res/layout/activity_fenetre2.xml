@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- activity_fenetre2.xml -->
+
+<!-- Layout XML pour l'activité Fenetre2 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    android:orientation="vertical">
+
+    <!-- Titre de la fenêtre -->
+
+    <TextView
+        android:id="@+id/titre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fenetre2"
+        android:textStyle="bold"
+        android:textSize="22sp"
+        android:layout_marginBottom="16dp"/>
+
+    <!-- Zone de récapitulatif / affichage d'informations -->
+
+    <TextView
+        android:id="@+id/recap"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:lineSpacingExtra="4dp"/>
+
+    <!-- Bouton pour revenir à l'écran précédent -->
+
+    <Button
+        android:id="@+id/btnRetour"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Retour"
+        android:layout_marginTop="20dp"/>
+
+</LinearLayout>
