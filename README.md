@@ -1,3 +1,6 @@
 # Lab3
 
-[Télécharger / Voir la vidéo](Demo.webm)
+##  Démonstration
+
+<video src="Demo.webm" controls width="600"></video>
+
