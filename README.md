@@ -1,6 +1,7 @@
 # Lab3
 
-##  Démonstration
+## 🎥 Démonstration
 
-<video src="Demo.webm" controls width="600"></video>
+[▶️ Voir la vidéo de démonstration](./Demo.webm)
+
 
