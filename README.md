@@ -1,7 +1,15 @@
 # Lab3
 
-## 🎥 Démonstration
+![Capture TP 3](1.png)
 
-[▶️ Voir la vidéo de démonstration](./Demo.webm)
+![Capture TP 3](2.png)
+
+![Capture TP 3](3.png)
+
+![Capture TP 3](4.png)
+
+![Capture TP 3](5.png)
+
+
 
 
